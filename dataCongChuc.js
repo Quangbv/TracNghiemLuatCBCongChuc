@@ -1,7 +1,7 @@
 // Dữ liệu câu hỏi trắc nghiệm Luật Cán bộ, Công chức
 // Được biên soạn từ tài liệu: 01_Luật cán bộ, Công chức.docx
 
-const dataCongChuc = {
+const rawQuizData = {
     "Qj": [
         {
             "question": "Cán bộ là công dân Việt Nam, được bầu cử, phê chuẩn, bổ nhiệm hoặc chỉ định giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan nào?",
@@ -505,3 +505,4 @@ const dataCongChuc = {
         }
     ]
 };
+
